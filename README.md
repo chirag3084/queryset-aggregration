@@ -1,1 +1,1 @@
-# Query set aggregation project 
+# Query set aggregation project
